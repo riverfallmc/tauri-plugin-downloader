@@ -1,11 +1,13 @@
 [package]
 name = "tauri-plugin-downloader"
+description = "Tauri plugin for downloading files"
+license = "GPL-3.0-only"
 version = "0.1.0"
 authors = ["smokingplaya"]
-description = ""
 edition = "2021"
 rust-version = "1.77.2"
 exclude = ["/dist-js", "/guest-js", "/node_modules"]
+repository = "https://github.com/riverfallmc/tauri-plugin-downloader"
 links = "tauri-plugin-downloader"
 
 [dependencies]
