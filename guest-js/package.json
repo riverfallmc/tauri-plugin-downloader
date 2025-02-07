@@ -1,0 +1,14 @@
+{
+  "name": "tauri-plugin-downloader",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.2.0"
+  }
+}

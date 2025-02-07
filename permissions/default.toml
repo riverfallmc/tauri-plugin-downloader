@@ -1,0 +1,3 @@
+[default]
+description="Default permissions for the plugin"
+permissions=["allow-spawn-thread", "allow-destroy-thread", "allow-download", "allow-pause", "allow-unpause", "allow-status", "allow-cancel"]
